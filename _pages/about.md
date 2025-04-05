@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenbin ZHANG"
+title: "Jian LU"
 author_profile: true
 redirect_from: 
   - /about/
